@@ -38,13 +38,13 @@ DBank is a decentralized banking application developed on the Internet Computer 
    Install DFINITY SDK:
    Follow the official installation guide if you haven’t installed dfx yet.
    Start the local Internet Computer network provided by dfx.
-  ```bash
-  dfx start
-  ```
-  Deploy the smart contracts and application to the local network. (On another terminal)
-  ```bash
-  dfx deploy
-  ```
+   ```bash
+   dfx start
+   ```
+   Deploy the smart contracts and application to the local network. (On another terminal)
+   ```bash
+   dfx deploy
+   ```
 
 6. **Run the Application:**
    Start the development server or deploy the application to the Internet Computer. (On different terminal)
